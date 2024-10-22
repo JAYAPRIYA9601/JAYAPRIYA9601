@@ -1,4 +1,4 @@
-# Hi there, I'm [Jayapriya S]! 👋
+# Hi here, I'm [Jayapriya S]! 👋
 
 🌟 Developer from [Chennai] 🌍
 
