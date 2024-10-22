@@ -2,7 +2,7 @@
 
 🌟 Developer from [Chennai] 🌍
 
-🔭 I’m currently working as a [ Current Position] at [ Company/Organization]
+🔭 I’m currently working as a Software Developer  at TCS
 
 🌱 I’m currently learning [Full stack developement]
 
