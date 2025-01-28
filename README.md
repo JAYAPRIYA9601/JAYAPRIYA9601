@@ -1,8 +1,6 @@
 # Hi here, I'm [Jayapriya S]! 👋
 
-🌟 Developer from [Chennai] 🌍
-
-🔭 I’m currently working as a Software Developer  at TCS
+🌟 Developer 
 
 🌱 I’m currently learning [Full stack developement]
 
